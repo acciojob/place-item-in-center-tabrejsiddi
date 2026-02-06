@@ -5,8 +5,8 @@
 	}
 .item-1{
 	display:flex;
-	align-items:center;
 	justify-content:center;
+	align-items:center;
 	widht:100px;
 	height:100px;
 	background-color:red;
