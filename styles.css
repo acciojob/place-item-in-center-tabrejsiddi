@@ -1,2 +1,13 @@
 
-/* Your CSS Code here. */
+.holder{
+	width:100vw;
+	height:100vh;
+	}
+.item-1{
+	display:flex;
+	align-items:center;
+	
+	widht:100px;
+	height:100px;
+	background-color:red;
+}
